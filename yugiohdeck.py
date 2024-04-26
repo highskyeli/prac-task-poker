@@ -41,7 +41,7 @@ def createAcard(name, typec, rarity, attribute, level):
 
     
 
-for i in range(5): 
+for i in range(2): 
     
 
     name = input("What is your card's name? ")
